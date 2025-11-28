@@ -56,7 +56,6 @@
 | 🛰️ **LoRadar Dataset** | Open-source 127 GB Satellite-Ground LoRa IQ Dataset (399–403 MHz, 4 MS/s, 13 Satellites) |
 | 📄 **UbiComp'25 PICASSO Paper** | *LoRa Sweep–Correlation Based Detection for Satellite IoT Systems* (Accepted) |
 | ⚡ **Signal Detection Framework** | FFT-Accelerated LoRa Packet Detection with PyFFTW, Numba, Multiprocessing |
-| 🧪 **LabPilot AI** | Generative AI-powered Intelligent Lab Learning System (Flask + ChatGPT API + MySQL) |
 | 🛠️ **HackRF SDR Ground Terminal** | Real-world signal collection system using Raspberry Pi + HackRF One |
 
 
