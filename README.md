@@ -14,7 +14,7 @@
 - 📚 Undergraduate at **Beijing University of Posts and Telecommunications (BUPT)**  
 - 🛰️ Focus on **LoRa Satellite Communications**, **Physical Layer Packet Detection**,  **AI-Assisted Communication Systems**  
 - 🧪 Built **LoRadar Dataset (127GB Satellite-Ground IQ Signals)** — captured with **HackRF + Raspberry Pi + Satellite Terminal**
-- ✍️ First-author of **UbiComp’25 PICASSO Workshop Paper** (Accepted)    
+- ✍️ Focused on research projects around satellite IoT and AI-assisted comms    
 - 🌱 AI learner
 
 ---
@@ -54,7 +54,7 @@
 |---------|-------------|
 | 🐟 **BettaFish (Multi-Agent舆情助手)** | 微舆：人人可用的多-Agent舆情分析助手，打破信息茧房、还原舆情原貌并预测走向（从0实现，不依赖框架）。[GitHub](https://github.com/Liu-2806/BettaFish-shuo) |
 | 🛰️ **LoRadar Dataset** | Open-source 127 GB Satellite-Ground LoRa IQ Dataset (399–403 MHz, 4 MS/s, 13 Satellites) |
-| 📄 **UbiComp'25 PICASSO Paper** | *LoRa Sweep–Correlation Based Detection for Satellite IoT Systems* (Accepted) |
+| 📄 **Satellite IoT Research** | LoRa sweep–correlation based detection experiments for satellite IoT systems |
 | ⚡ **Signal Detection Framework** | FFT-Accelerated LoRa Packet Detection with PyFFTW, Numba, Multiprocessing |
 | 🛠️ **HackRF SDR Ground Terminal** | Real-world signal collection system using Raspberry Pi + HackRF One |
 
@@ -85,4 +85,4 @@
 
 ---
 
-<p align="center"><b>🌟 Always exploring the intersection of Satellite Communication and AI 🌟</b></p>
+<p align="center"><b>🌟 AI Learner 🌟</b></p>
