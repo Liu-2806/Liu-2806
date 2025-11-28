@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shuo Liu (刘硕)</h1>
+<h1 align="center">👋 Hi, I'm Shuo Liu</h1>
 <h3 align="center">Undergraduate Researcher | Satellite-Ground LoRa Signals | AI-Powered Wireless Systems</h3>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### 👨‍🎓 About Me  
 - 📚 Undergraduate at **Beijing University of Posts and Telecommunications (BUPT)**  
-- 🛰️ Focus on **LoRa Satellite Communications**, **Physical Layer Packet Detection**, **FFT-Accelerated Signal Processing**, **AI-Assisted Communication Systems**  
+- 🛰️ Focus on **LoRa Satellite Communications**, **Physical Layer Packet Detection**,  **AI-Assisted Communication Systems**  
 - 🧪 Built **LoRadar Dataset (127GB Satellite-Ground IQ Signals)** — captured with **HackRF + Raspberry Pi + Satellite Terminal**
 - ✍️ First-author of **UbiComp’25 PICASSO Workshop Paper** (Accepted)    
-- 🌱 Currently learning **Federated Learning (FedML, Flower)**, **Edge AI**, and **Signal Intelligence**
+- 🌱 AI learner
 
 ---
 
