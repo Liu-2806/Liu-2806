@@ -59,14 +59,7 @@
 | 🧪 **LabPilot AI** | Generative AI-powered Intelligent Lab Learning System (Flask + ChatGPT API + MySQL) |
 | 🛠️ **HackRF SDR Ground Terminal** | Real-world signal collection system using Raspberry Pi + HackRF One |
 
-**BettaFish Highlights**  
-- 多智能体“论坛”协作：Query/Media/Insight/Report Agent 由主持人模型驱动辩论迭代，避免单一模型偏见。  
-- 全域多模态覆盖：支持国内外主流社媒与用户评论，解析短视频/图文内容，聚合成结构化证据。  
-- 一键部署：纯 Python 模块化 + Docker Compose，`.env` 配好 LLM/DB Key 即可跑通。  
-- 成果示例：武汉大学品牌声誉分析的交互式 HTML 报告与全流程运行视频，可直接体验分析深度。[报告示例](https://github.com/666ghj/BettaFish/blob/main/final_reports/final_report__20250827_131630.html)｜[运行视频](https://www.bilibili.com/video/BV1TH1WBxEWN/)  
-- 易于二开：引擎/工具/提示词拆分清晰，便于替换模型、接入私有数据库或自定义报告模板。  
 
----
 
 ### 📊 GitHub Activity & Stats  
 
@@ -82,17 +75,13 @@
 ---
 
 ### 🧠 Recent Interests & Studying  
-> Satellite IoT • LoRa PHY Signal Analysis • FFT Acceleration • Federated Learning • Edge Computing  
-> Signal Intelligence (SIGINT) • AI for Education • Patent Design • Scientific Writing (UbiComp, INFOCOM)
+> AI learning and practice
 
 ---
 
 ### 📫 Contact Me  
 <p align="left">
-  <a href="mailto:liu.shuo@bupt.edu.cn"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail"></a>
-  <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://github.com/Liu-2806"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
+  <a href="mailto:shuoliu315@gmail.com"><img src="https://img.shields.io/badge/Email-shuoliu315%40gmail.com-red?logo=gmail"></a>
 </p>
 
 ---
